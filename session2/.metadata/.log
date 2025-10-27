@@ -1,0 +1,21 @@
+!SESSION 2025-10-27 15:27:44.943 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-27 15:28:25.375
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-27 15:28:25.379
+!MESSAGE Log4j2 initialized with config file /home/moktar/embedded_stuff/STM32_PROJ/STM32_wokshop/session2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-27 15:28:32.883
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-27 15:31:16.324
+!MESSAGE Indexed 'LED_toggle' (36 sources, 100 headers) in 10.4 sec: 7,844 declarations; 50,090 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0035%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-27 15:47:41.378
+!MESSAGE Indexed 'BTN_Example' (36 sources, 100 headers) in 4.27 sec: 7,844 declarations; 50,090 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0035%)
