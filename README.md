@@ -14,5 +14,6 @@ at the end we have taken a look to GPIOs and explain the GPIO structure in the S
 - ARM Processors families 
 - Memory Layout 
 - Interrupts and NVIC
-Recording: [Youtube video](https://www.youtube.com/watch?v=T49G76CpJJ4&t=4868s)
+
+Recording session3 : [Youtube video](https://www.youtube.com/watch?v=T49G76CpJJ4&t=4868s)
 
